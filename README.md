@@ -1,6 +1,6 @@
 # LLaMA GPU Benchmark - Runpod Serverless
 
-[![Runpod](https://api.runpod.io/badge/vedenij/runpod)](https://console.runpod.io/hub/vedenij/runpod)
+[![Runpod](https://api.runpod.io/badge/alimeugenov/runpod)](https://console.runpod.io/hub/alimeugenov/runpod)
 
 GPU performance benchmark using LLaMA model inference. This service runs deterministic transformer computations to measure GPU throughput and validate hardware performance.
 
